@@ -1,7 +1,6 @@
 streamlit
 pandas
-matplotlib
-seaborn
-numpy
-scikit-learn
-openpyxl
+requests
+requests_ntlm
+sqlalchemy
+psycopg2-binary
